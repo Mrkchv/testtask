@@ -2,9 +2,15 @@
 	<build>
 		<plugins>
 			<plugin>
-				<groupId>org.postgresql</groupId>
-				<artifactId>postgresql</artifactId>
-				<version>9.4.1208</version>
+				<groupId>
+					org.postgresql
+				</groupId>
+				<artifactId>
+					postgresql
+				</artifactId>
+				<version>
+					9.4.1208
+				</version>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
