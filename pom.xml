@@ -1,3 +1,4 @@
+<project>
 <build>
   <plugins>
     <plugin>
@@ -41,3 +42,4 @@
     </build>
   </profile>
 </profiles>
+</project>
