@@ -1,7 +1,7 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.testt.ask.webapp</groupId>
-	<artifactId>testtaskwebapp</artifactId>
+	<groupId>testtask1111.herokuapp.com</groupId>
+	<artifactId>testtask1111</artifactId>
 	<version>1.0</version>
 	<build>
 		<plugins>
