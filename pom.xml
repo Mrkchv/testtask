@@ -3,7 +3,8 @@
 	<groupId>testtask1111.herokuapp.com</groupId>
 	<artifactId>testtask1111</artifactId>
 	<version>1.0</version>
-<plugin>
+<plugins>
+	<plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-dependency-plugin</artifactId>
                 <version>2.3</version>
@@ -26,4 +27,5 @@
                     </execution>
                 </executions>
             </plugin>
+	</plugins>
 </project>
