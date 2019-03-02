@@ -1,4 +1,7 @@
 <project>
+	<modelVersion>1.0</modelVersion>
+	<groupId>com.testtask.webapp</groupId>
+	<artifactId>testtaskwebapp</artifactId>
 	<build>
 		<plugins>
 			<plugin>
