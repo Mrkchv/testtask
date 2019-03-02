@@ -3,23 +3,5 @@
 	<groupId>testtask1111.herokuapp.com</groupId>
 	<artifactId>testtask1111</artifactId>
 	<version>1.0</version>
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-dependency-plugin</artifactId>
-				<version>2.3</version>
-				<configuration>
-					<encoding>UTF-8</encoding>
-				</configuration>
-				<executions>
-					<execution>
-						<id>copy-dependencies</id>
-						<phase>package</phase>
-						<goals><goal>copy-dependencies</goal></goals>		
-					</execution>
-				</executions>
-			</plugin>
-		</plugins>
-	</build>
+	
 </project>
